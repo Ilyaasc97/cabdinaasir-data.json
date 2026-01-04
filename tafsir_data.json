@@ -22,47 +22,52 @@
                         {
                             "id": 2,
                             "title": "البقرة 1-16",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/002%20%20BAQARAH%2C1-16%20T.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/002%20%20BAQARAH%2C1-16%20T.mp3"
                         },
                         {
                             "id": 3,
                             "title": "البقرة 17-29",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/003%20albaqra%2017-29.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/003%20%20BAQARAH%2C17-29%20T.mp3"
                         },
                         {
                             "id": 4,
-                            "title": "آل عمران 1-15",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/026%20al%20cimraan%201-15.mp3"
+                            "title": "البقرة 30-40",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/004%20%20BAQARAH%2C30-48%20T.mp3"
                         },
                         {
                             "id": 5,
-                            "title": "النساء 7-14",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/040%20Nisaa%207-14.mp3"
+                            "title": "البقرة 41-55",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/005%20%20BAQARAH%2C41-55%20T.mp3"
                         },
                         {
                             "id": 6,
-                            "title": "المائدة 1-5",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/054%20maa%20ida%201-5.mp3"
+                            "title": "البقرة 56-69",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/006%20%20BAQARAH%2C56-69%20T.mp3"
                         },
                         {
                             "id": 7,
-                            "title": "الأنعام 1-18",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/065%20ancaam%201-18.mp3"
+                            "title": "البقرة 70-83",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/007%20%20BAQARAH%2C70-83%20T.mp3"
                         },
                         {
                             "id": 8,
-                            "title": "الأعراف 12-30",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/077%20acraaf%2012-30.mp3"
+                            "title": "البقرة 84-97",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/008%20%20BAQARAH%2C84-97%20T.mp3"
                         },
                         {
                             "id": 9,
-                            "title": "الأنفال 9-25",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/090%20anfaal%209-25.mp3"
+                            "title": "البقرة 102-112",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/009%20%20BAQARAH%2C102-112%20T.mp3"
                         },
                         {
                             "id": 10,
-                            "title": "التوبة 7-22",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/095%20tawba%207-22.mp3"
+                            "title": "البقرة 113-126",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/010%20%20BAQARAH113-126%20T.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "title": "البقرة 127-140",
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/011%20%20BAQARAH127-140%20T.mp3"
                         }
                     ]
                 },
