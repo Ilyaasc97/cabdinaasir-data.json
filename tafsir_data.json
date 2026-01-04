@@ -17,52 +17,52 @@
                         {
                             "id": 1,
                             "title": "الفاتحة",
-                            "audio_url": "https://github.com/Ilyaasc97/tafsir-hore/blob/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/001%20%20FATIHA%20T.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/001%20%20FATIHA%20T.mp3"
                         },
                         {
                             "id": 2,
                             "title": "البقرة 1-16",
-                            "audio_url": "https://github.com/Ilyaasc97/tafsir-hore/blob/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/002%20%20BAQARAH%2C1-16%20T.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/002%20%20BAQARAH%2C1-16%20T.mp3"
                         },
                         {
                             "id": 3,
                             "title": "البقرة 17-29",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/003%20albaqra%2017-29.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/003%20albaqra%2017-29.mp3"
                         },
                         {
                             "id": 4,
                             "title": "آل عمران 1-15",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/026%20al%20cimraan%201-15.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/026%20al%20cimraan%201-15.mp3"
                         },
                         {
                             "id": 5,
                             "title": "النساء 7-14",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/040%20Nisaa%207-14.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/040%20Nisaa%207-14.mp3"
                         },
                         {
                             "id": 6,
                             "title": "المائدة 1-5",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/054%20maa%20ida%201-5.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/054%20maa%20ida%201-5.mp3"
                         },
                         {
                             "id": 7,
                             "title": "الأنعام 1-18",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/065%20ancaam%201-18.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/065%20ancaam%201-18.mp3"
                         },
                         {
                             "id": 8,
                             "title": "الأعراف 12-30",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/077%20acraaf%2012-30.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/077%20acraaf%2012-30.mp3"
                         },
                         {
                             "id": 9,
                             "title": "الأنفال 9-25",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/090%20anfaal%209-25.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/090%20anfaal%209-25.mp3"
                         },
                         {
                             "id": 10,
                             "title": "التوبة 7-22",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/095%20tawba%207-22.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/095%20tawba%207-22.mp3"
                         }
                     ]
                 },
@@ -73,32 +73,32 @@
                         {
                             "id": 30,
                             "title": "النبأ والنازعات 1-15",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/292%20naba%201%20naasicaad%2015.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/292%20naba%201%20naasicaad%2015.mp3"
                         },
                         {
                             "id": 31,
                             "title": "النازعات 16 وعبس",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/293%20naasicaad%2016%20cabasa%20293.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/293%20naasicaad%2016%20cabasa%20293.mp3"
                         },
                         {
                             "id": 32,
                             "title": "التكوير والانفطار",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/294%20Takwiir%20infidhaar.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/294%20Takwiir%20infidhaar.mp3"
                         },
                         {
                             "id": 33,
                             "title": "المطففين والانشقاق",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/295%20mudhafifin%20inshiqaaq.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/295%20mudhafifin%20inshiqaaq.mp3"
                         },
                         {
                             "id": 34,
                             "title": "البروج والطارق والأعلى",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/296%20buruuj%20dhariq%20aclaa.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/296%20buruuj%20dhariq%20aclaa.mp3"
                         },
                         {
                             "id": 35,
                             "title": "الغاشية والفجر",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/297%20Qaashiya%20Fajri.mp3"
+                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/297%20Qaashiya%20Fajri.mp3"
                         },
                         {
                             "id": 36,
@@ -246,4 +246,3 @@
         }
     ]
 }
-
