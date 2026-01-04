@@ -17,12 +17,12 @@
                         {
                             "id": 1,
                             "title": "الفاتحة",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/001%20alfaatixa.mp3"
+                            "audio_url": "https://github.com/Ilyaasc97/tafsir-hore/blob/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/001%20%20FATIHA%20T.mp3"
                         },
                         {
                             "id": 2,
                             "title": "البقرة 1-16",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/002%20albaqra%201%20-%2016.mp3"
+                            "audio_url": "https://github.com/Ilyaasc97/tafsir-hore/blob/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/002%20%20BAQARAH%2C1-16%20T.mp3"
                         },
                         {
                             "id": 3,
@@ -246,3 +246,4 @@
         }
     ]
 }
+
