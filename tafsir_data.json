@@ -16,109 +16,109 @@
                     "lessons": [
                         {
                             "id": 1,
-                            "title": "الفاتحة 1-7",
-                            "audio_url": "https://server6.mp3quran.net/thubti/001.mp3"
+                            "title": "الفاتحة",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3"
                         },
                         {
                             "id": 2,
                             "title": "البقرة 1-16",
-                            "audio_url": "https://server6.mp3quran.net/thubti/002.mp3"
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/002%20albaqra%201%20-%2016.mp3"
                         },
                         {
                             "id": 3,
-                            "title": "البقرة 26-43",
-                            "audio_url": "https://server6.mp3quran.net/thubti/002.mp3"
+                            "title": "البقرة 17-29",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/003%20albaqra%2017-29.mp3"
                         },
                         {
                             "id": 4,
-                            "title": "البقرة 44-59",
-                            "audio_url": "https://server6.mp3quran.net/thubti/002.mp3"
+                            "title": "آل عمران 1-15",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/026%20al%20cimraan%201-15.mp3"
                         },
                         {
                             "id": 5,
-                            "title": "البقرة 60-74",
-                            "audio_url": "https://server6.mp3quran.net/thubti/002.mp3"
+                            "title": "النساء 7-14",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/040%20Nisaa%207-14.mp3"
                         },
                         {
                             "id": 6,
-                            "title": "البقرة 75-91",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "title": "المائدة 1-5",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/054%20maa%20ida%201-5.mp3"
                         },
                         {
                             "id": 7,
-                            "title": "البقرة 92-105",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "title": "الأنعام 1-18",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/065%20ancaam%201-18.mp3"
                         },
                         {
                             "id": 8,
-                            "title": "البقرة 106-123",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "title": "الأعراف 12-30",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/077%20acraaf%2012-30.mp3"
                         },
                         {
                             "id": 9,
-                            "title": "البقرة 124-141",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "title": "الأنفال 9-25",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/090%20anfaal%209-25.mp3"
                         },
                         {
                             "id": 10,
-                            "title": "البقرة 142-163",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "title": "التوبة 7-22",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/095%20tawba%207-22.mp3"
                         }
                     ]
                 },
                 {
                     "juz_number": 30,
-                    "juz_name": "الجزء الثلاثون - عم",
+                    "juz_name": "الجزء الثلاثون",
                     "lessons": [
                         {
-                            "id": 301,
-                            "title": "النبأ 1-40",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/078.mp3"
+                            "id": 30,
+                            "title": "النبأ والنازعات 1-15",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/292%20naba%201%20naasicaad%2015.mp3"
                         },
                         {
-                            "id": 302,
-                            "title": "النازعات 1-46",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/079.mp3"
+                            "id": 31,
+                            "title": "النازعات 16 وعبس",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/293%20naasicaad%2016%20cabasa%20293.mp3"
                         },
                         {
-                            "id": 303,
-                            "title": "عبس 1-42",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/080.mp3"
+                            "id": 32,
+                            "title": "التكوير والانفطار",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/294%20Takwiir%20infidhaar.mp3"
                         },
                         {
-                            "id": 304,
-                            "title": "التكوير 1-29",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/081.mp3"
+                            "id": 33,
+                            "title": "المطففين والانشقاق",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/295%20mudhafifin%20inshiqaaq.mp3"
                         },
                         {
-                            "id": 305,
-                            "title": "الانفطار 1-19",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/082.mp3"
+                            "id": 34,
+                            "title": "البروج والطارق والأعلى",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/296%20buruuj%20dhariq%20aclaa.mp3"
                         },
                         {
-                            "id": 306,
-                            "title": "المطففين 1-36",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/083.mp3"
+                            "id": 35,
+                            "title": "الغاشية والفجر",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/297%20Qaashiya%20Fajri.mp3"
                         },
                         {
-                            "id": 307,
-                            "title": "الانشقاق 1-25",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/084.mp3"
+                            "id": 36,
+                            "title": "البلد والشمس والليل",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/298%20Balad%20shamsi%20layl.mp3"
                         },
                         {
-                            "id": 308,
-                            "title": "البروج 1-22",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/085.mp3"
+                            "id": 37,
+                            "title": "الضحى إلى العلق",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/299%20Duxaa%20ilaa%20Calaq.mp3"
                         },
                         {
-                            "id": 309,
-                            "title": "الطارق 1-17",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/086.mp3"
+                            "id": 38,
+                            "title": "القدر إلى العاديات",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/300%20Qadri%20ilaa%20Caadiyaat.mp3"
                         },
                         {
-                            "id": 310,
-                            "title": "الأعلى 1-19",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/087.mp3"
+                            "id": 39,
+                            "title": "القارعة إلى الفيل",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/301%20Qarica%20102%20Takathur%20103%20Casar%20104%20Humasah%20105%20Fil.mp3"
                         }
                     ]
                 }
@@ -135,110 +135,110 @@
                     "juz_name": "الجزء الأول",
                     "lessons": [
                         {
-                            "id": 1001,
-                            "title": "الفاتحة 1-7",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/001.mp3"
+                            "id": 101,
+                            "title": "الفاتحة",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3"
                         },
                         {
-                            "id": 1002,
-                            "title": "البقرة 1-25",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 102,
+                            "title": "البقرة 1-16",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/002%20albaqra%201%20-%2016.mp3"
                         },
                         {
-                            "id": 1003,
-                            "title": "البقرة 26-43",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 103,
+                            "title": "البقرة 17-29",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/003%20albaqra%2017-29.mp3"
                         },
                         {
-                            "id": 1004,
-                            "title": "البقرة 44-59",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 104,
+                            "title": "آل عمران 1-15",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/026%20al%20cimraan%201-15.mp3"
                         },
                         {
-                            "id": 1005,
-                            "title": "البقرة 60-74",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 105,
+                            "title": "النساء 7-14",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/040%20Nisaa%207-14.mp3"
                         },
                         {
-                            "id": 1006,
-                            "title": "البقرة 75-91",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 106,
+                            "title": "المائدة 1-5",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/054%20maa%20ida%201-5.mp3"
                         },
                         {
-                            "id": 1007,
-                            "title": "البقرة 92-105",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 107,
+                            "title": "الأنعام 1-18",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/065%20ancaam%201-18.mp3"
                         },
                         {
-                            "id": 1008,
-                            "title": "البقرة 106-123",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 108,
+                            "title": "الأعراف 12-30",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/077%20acraaf%2012-30.mp3"
                         },
                         {
-                            "id": 1009,
-                            "title": "البقرة 124-141",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 109,
+                            "title": "الأنفال 9-25",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/090%20anfaal%209-25.mp3"
                         },
                         {
-                            "id": 1010,
-                            "title": "البقرة 142-163",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                            "id": 110,
+                            "title": "التوبة 7-22",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/095%20tawba%207-22.mp3"
                         }
                     ]
                 },
                 {
                     "juz_number": 30,
-                    "juz_name": "الجزء الثلاثون - عم",
+                    "juz_name": "الجزء الثلاثون",
                     "lessons": [
                         {
-                            "id": 1301,
-                            "title": "النبأ 1-40",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/078.mp3"
+                            "id": 130,
+                            "title": "النبأ والنازعات 1-15",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/292%20naba%201%20naasicaad%2015.mp3"
                         },
                         {
-                            "id": 1302,
-                            "title": "النازعات 1-46",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/079.mp3"
+                            "id": 131,
+                            "title": "النازعات 16 وعبس",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/293%20naasicaad%2016%20cabasa%20293.mp3"
                         },
                         {
-                            "id": 1303,
-                            "title": "عبس 1-42",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/080.mp3"
+                            "id": 132,
+                            "title": "التكوير والانفطار",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/294%20Takwiir%20infidhaar.mp3"
                         },
                         {
-                            "id": 1304,
-                            "title": "التكوير 1-29",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/081.mp3"
+                            "id": 133,
+                            "title": "المطففين والانشقاق",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/295%20mudhafifin%20inshiqaaq.mp3"
                         },
                         {
-                            "id": 1305,
-                            "title": "الانفطار 1-19",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/082.mp3"
+                            "id": 134,
+                            "title": "البروج والطارق والأعلى",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/296%20buruuj%20dhariq%20aclaa.mp3"
                         },
                         {
-                            "id": 1306,
-                            "title": "المطففين 1-36",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/083.mp3"
+                            "id": 135,
+                            "title": "الغاشية والفجر",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/297%20Qaashiya%20Fajri.mp3"
                         },
                         {
-                            "id": 1307,
-                            "title": "الانشقاق 1-25",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/084.mp3"
+                            "id": 136,
+                            "title": "البلد والشمس والليل",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/298%20Balad%20shamsi%20layl.mp3"
                         },
                         {
-                            "id": 1308,
-                            "title": "البروج 1-22",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/085.mp3"
+                            "id": 137,
+                            "title": "الضحى إلى العلق",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/299%20Duxaa%20ilaا%20Calaq.mp3"
                         },
                         {
-                            "id": 1309,
-                            "title": "الطارق 1-17",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/086.mp3"
+                            "id": 138,
+                            "title": "القدر إلى العاديات",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/300%20Qadri%20ilaa%20Caadiyaat.mp3"
                         },
                         {
-                            "id": 1310,
-                            "title": "الأعلى 1-19",
-                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/087.mp3"
+                            "id": 139,
+                            "title": "القارعة إلى الفيل",
+                            "audio_url": "https://archive.org/download/221-yaasiin-1-29/301%20Qarica%20102%20Takathur%20103%20Casar%20104%20Humasah%20105%20Fil.mp3"
                         }
                     ]
                 }
