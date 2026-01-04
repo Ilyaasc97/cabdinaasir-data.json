@@ -57,13 +57,13 @@
                 {
                     "id": 1,
                     "title": "الدرس 1",
-                    "audio_url": "https://example.com/2013/001.mp3",
+                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
                     "juz": 1
                 },
                 {
                     "id": 2,
                     "title": "الدرس 2",
-                    "audio_url": "https://example.com/2013/002.mp3",
+                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
                     "juz": 1
                 }
             ]
@@ -79,16 +79,17 @@
                 {
                     "id": 1,
                     "title": "الدرس 1",
-                    "audio_url": "https://example.com/2018/001.mp3",
+                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
                     "juz": 1
                 },
                 {
                     "id": 2,
                     "title": "الدرس 2",
-                    "audio_url": "https://example.com/2018/002.mp3",
+                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
                     "juz": 1
                 }
             ]
         }
     ]
+
 }
