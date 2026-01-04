@@ -1,95 +1,248 @@
 {
     "sheikh_info": {
-        "id": "cabdinaasir_xuseen",
-        "name_ar": "الشيخ عبد الناصر حسين",
-        "name_en": "Sheikh Cabdinaasir Xuseen",
-        "bio_ar": "الشيخ عبد الناصر حسين هو أحد كبار مفسري القرآن الكريم في الصومال ومنطقة القرن الأفريقي.",
-        "bio_en": "Sheikh Cabdinaasir Xuseen is one of the renowned Quran interpreters in Somalia and the Horn of Africa."
+        "name": "الشيخ عبد الناصر حسين",
+        "bio": "أحد كبار مفسري القرآن الكريم في الصومال ومنطقة القرن الأفريقي"
     },
-    "juz_categories": [
+    "tafseer_collections": [
         {
-            "id": "makki",
-            "name_ar": "السور المكية",
-            "name_en": "Makki Surahs",
-            "description": "السور التي نزلت في مكة المكرمة",
-            "color": "0xFF8D6E63",
-            "juz_ids": [
-                1,
-                29,
-                30
-            ]
-        },
-        {
-            "id": "madani",
-            "name_ar": "السور المدنية",
-            "name_en": "Madani Surahs",
-            "description": "السور التي نزلت في المدينة المنورة",
-            "color": "0xFF4CAF50",
-            "juz_ids": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "id": "favorites",
-            "name_ar": "الأجزاء المحبوبة",
-            "name_en": "Beloved Juz",
-            "description": "الأجزاء الأكثر استماعاً وتلاوة",
-            "color": "0xFFE91E63",
-            "juz_ids": [
-                29,
-                30,
-                26,
-                27
-            ]
-        }
-    ],
-    "collections": [
-        {
-            "id": "tafsir_2013",
+            "id": "tafseer_2013",
+            "title": "تفسير 2013",
             "year": 2013,
-            "title_ar": "تفسير 2013",
-            "title_en": "Tafsir 2013",
-            "description_ar": "سلسلة تفسير القرآن الكريم المسجلة عام 2013",
-            "total_lessons": 300,
-            "lessons": [
+            "description": "التفسير الكامل للقرآن الكريم - إصدار 2013",
+            "juz_list": [
                 {
-                    "id": 1,
-                    "title": "الدرس 1",
-                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
-                    "juz": 1
+                    "juz_number": 1,
+                    "juz_name": "الجزء الأول",
+                    "lessons": [
+                        {
+                            "id": 1,
+                            "title": "الفاتحة 1-7",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/001.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "title": "البقرة 1-25",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "title": "البقرة 26-43",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "title": "البقرة 44-59",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "title": "البقرة 60-74",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "title": "البقرة 75-91",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "title": "البقرة 92-105",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "title": "البقرة 106-123",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "title": "البقرة 124-141",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "title": "البقرة 142-163",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        }
+                    ]
                 },
                 {
-                    "id": 2,
-                    "title": "الدرس 2",
-                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
-                    "juz": 1
+                    "juz_number": 30,
+                    "juz_name": "الجزء الثلاثون - عم",
+                    "lessons": [
+                        {
+                            "id": 301,
+                            "title": "النبأ 1-40",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/078.mp3"
+                        },
+                        {
+                            "id": 302,
+                            "title": "النازعات 1-46",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/079.mp3"
+                        },
+                        {
+                            "id": 303,
+                            "title": "عبس 1-42",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/080.mp3"
+                        },
+                        {
+                            "id": 304,
+                            "title": "التكوير 1-29",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/081.mp3"
+                        },
+                        {
+                            "id": 305,
+                            "title": "الانفطار 1-19",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/082.mp3"
+                        },
+                        {
+                            "id": 306,
+                            "title": "المطففين 1-36",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/083.mp3"
+                        },
+                        {
+                            "id": 307,
+                            "title": "الانشقاق 1-25",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/084.mp3"
+                        },
+                        {
+                            "id": 308,
+                            "title": "البروج 1-22",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/085.mp3"
+                        },
+                        {
+                            "id": 309,
+                            "title": "الطارق 1-17",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/086.mp3"
+                        },
+                        {
+                            "id": 310,
+                            "title": "الأعلى 1-19",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/087.mp3"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "id": "tafsir_2018",
+            "id": "tafseer_2018",
+            "title": "تفسير 2018",
             "year": 2018,
-            "title_ar": "تفسير 2018",
-            "title_en": "Tafsir 2018",
-            "description_ar": "سلسلة تفسير القرآن الكريم المسجلة عام 2018",
-            "total_lessons": 300,
-            "lessons": [
+            "description": "التفسير الكامل للقرآن الكريم - إصدار 2018",
+            "juz_list": [
                 {
-                    "id": 1,
-                    "title": "الدرس 1",
-                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
-                    "juz": 1
+                    "juz_number": 1,
+                    "juz_name": "الجزء الأول",
+                    "lessons": [
+                        {
+                            "id": 1001,
+                            "title": "الفاتحة 1-7",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/001.mp3"
+                        },
+                        {
+                            "id": 1002,
+                            "title": "البقرة 1-25",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1003,
+                            "title": "البقرة 26-43",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1004,
+                            "title": "البقرة 44-59",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1005,
+                            "title": "البقرة 60-74",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1006,
+                            "title": "البقرة 75-91",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1007,
+                            "title": "البقرة 92-105",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1008,
+                            "title": "البقرة 106-123",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1009,
+                            "title": "البقرة 124-141",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        },
+                        {
+                            "id": 1010,
+                            "title": "البقرة 142-163",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/002.mp3"
+                        }
+                    ]
                 },
                 {
-                    "id": 2,
-                    "title": "الدرس 2",
-                    "audio_url": "https://archive.org/download/221-yaasiin-1-29/001%20alfaatixa.mp3",
-                    "juz": 1
+                    "juz_number": 30,
+                    "juz_name": "الجزء الثلاثون - عم",
+                    "lessons": [
+                        {
+                            "id": 1301,
+                            "title": "النبأ 1-40",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/078.mp3"
+                        },
+                        {
+                            "id": 1302,
+                            "title": "النازعات 1-46",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/079.mp3"
+                        },
+                        {
+                            "id": 1303,
+                            "title": "عبس 1-42",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/080.mp3"
+                        },
+                        {
+                            "id": 1304,
+                            "title": "التكوير 1-29",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/081.mp3"
+                        },
+                        {
+                            "id": 1305,
+                            "title": "الانفطار 1-19",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/082.mp3"
+                        },
+                        {
+                            "id": 1306,
+                            "title": "المطففين 1-36",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/083.mp3"
+                        },
+                        {
+                            "id": 1307,
+                            "title": "الانشقاق 1-25",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/084.mp3"
+                        },
+                        {
+                            "id": 1308,
+                            "title": "البروج 1-22",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/085.mp3"
+                        },
+                        {
+                            "id": 1309,
+                            "title": "الطارق 1-17",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/086.mp3"
+                        },
+                        {
+                            "id": 1310,
+                            "title": "الأعلى 1-19",
+                            "audio_url": "https://server13.mp3quran.net/husr/Rewayat-Hafs-A-n-Assem/087.mp3"
+                        }
+                    ]
                 }
             ]
         }
     ]
-
 }
