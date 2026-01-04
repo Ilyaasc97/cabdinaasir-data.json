@@ -1,0 +1,94 @@
+{
+    "sheikh_info": {
+        "id": "cabdinaasir_xuseen",
+        "name_ar": "الشيخ عبد الناصر حسين",
+        "name_en": "Sheikh Cabdinaasir Xuseen",
+        "bio_ar": "الشيخ عبد الناصر حسين هو أحد كبار مفسري القرآن الكريم في الصومال ومنطقة القرن الأفريقي.",
+        "bio_en": "Sheikh Cabdinaasir Xuseen is one of the renowned Quran interpreters in Somalia and the Horn of Africa."
+    },
+    "juz_categories": [
+        {
+            "id": "makki",
+            "name_ar": "السور المكية",
+            "name_en": "Makki Surahs",
+            "description": "السور التي نزلت في مكة المكرمة",
+            "color": "0xFF8D6E63",
+            "juz_ids": [
+                1,
+                29,
+                30
+            ]
+        },
+        {
+            "id": "madani",
+            "name_ar": "السور المدنية",
+            "name_en": "Madani Surahs",
+            "description": "السور التي نزلت في المدينة المنورة",
+            "color": "0xFF4CAF50",
+            "juz_ids": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": "favorites",
+            "name_ar": "الأجزاء المحبوبة",
+            "name_en": "Beloved Juz",
+            "description": "الأجزاء الأكثر استماعاً وتلاوة",
+            "color": "0xFFE91E63",
+            "juz_ids": [
+                29,
+                30,
+                26,
+                27
+            ]
+        }
+    ],
+    "collections": [
+        {
+            "id": "tafsir_2013",
+            "year": 2013,
+            "title_ar": "تفسير 2013",
+            "title_en": "Tafsir 2013",
+            "description_ar": "سلسلة تفسير القرآن الكريم المسجلة عام 2013",
+            "total_lessons": 300,
+            "lessons": [
+                {
+                    "id": 1,
+                    "title": "الدرس 1",
+                    "audio_url": "https://example.com/2013/001.mp3",
+                    "juz": 1
+                },
+                {
+                    "id": 2,
+                    "title": "الدرس 2",
+                    "audio_url": "https://example.com/2013/002.mp3",
+                    "juz": 1
+                }
+            ]
+        },
+        {
+            "id": "tafsir_2018",
+            "year": 2018,
+            "title_ar": "تفسير 2018",
+            "title_en": "Tafsir 2018",
+            "description_ar": "سلسلة تفسير القرآن الكريم المسجلة عام 2018",
+            "total_lessons": 300,
+            "lessons": [
+                {
+                    "id": 1,
+                    "title": "الدرس 1",
+                    "audio_url": "https://example.com/2018/001.mp3",
+                    "juz": 1
+                },
+                {
+                    "id": 2,
+                    "title": "الدرس 2",
+                    "audio_url": "https://example.com/2018/002.mp3",
+                    "juz": 1
+                }
+            ]
+        }
+    ]
+}
