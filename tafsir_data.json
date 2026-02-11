@@ -17,113 +17,185 @@
                         {
                             "id": 1,
                             "title": "الفاتحة",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/001%20%20FATIHA%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/001-FAIHA1-7.mp3"
                         },
                         {
                             "id": 2,
                             "title": "البقرة 1-16",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/002%20%20BAQARAH%2C1-16%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/002-BAQARAH1-16.mp3"
                         },
                         {
                             "id": 3,
                             "title": "البقرة 17-29",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/003%20%20BAQARAH%2C17-29%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/003-BAQARAH17-29.mp3"
                         },
                         {
                             "id": 4,
-                            "title": "البقرة 30-40",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/004%20%20BAQARAH%2C30-48%20T.mp3"
+                            "title": "البقرة 30-48",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/004-BAQARAH30-48.mp3"
                         },
                         {
                             "id": 5,
-                            "title": "البقرة 41-55",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/005%20%20BAQARAH%2C41-55%20T.mp3"
+                            "title": "البقرة 49-61",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/005-BAQARAH49-61.mp3"
                         },
                         {
                             "id": 6,
                             "title": "البقرة 56-69",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/006%20%20BAQARAH%2C56-69%20T.mp3"
+                            "audio_url": ""
                         },
                         {
                             "id": 7,
                             "title": "البقرة 70-83",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/007%20%20BAQARAH%2C70-83%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/007-BAQARAH77-88.mp3"
                         },
                         {
                             "id": 8,
                             "title": "البقرة 84-97",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/008%20%20BAQARAH%2C84-97%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/008-BAQARAH89-101.mp3"
                         },
                         {
                             "id": 9,
                             "title": "البقرة 102-112",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/009%20%20BAQARAH%2C102-112%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/009-BAQARAH102-112.mp3"
                         },
                         {
                             "id": 10,
                             "title": "البقرة 113-126",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/010%20%20BAQARAH113-126%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/010-BAQARAH113-126.mp3"
                         },
                         {
                             "id": 11,
                             "title": "البقرة 127-140",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/refs/heads/main/011%20%20BAQARAH127-140%20T.mp3"
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/011-BAQARAH127-140.mp3"
                         }
                     ]
                 },
                 {
-                    "juz_number": 30,
-                    "juz_name": "الجزء الثلاثون",
+                    "juz_number": 2,
+                    "juz_name": "الجزء الثاني",
                     "lessons": [
                         {
+                            "id": 12,
+                            "title": "البقرة 141-153",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/012-BAQARAH142-153.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "title": "البقرة 154-169",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/013-BAQARAH154-169.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "title": "البقرة 170-182",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/014-BAQARAH170-182.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "title": "البقرة 183-195",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/015-BAQARAH183-195.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "title": "البقرة 196-209",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/016-BAQARAH196-209.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "title": "البقرة 210-222",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/017-BAQARAH210-222.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "title": "البقرة 223-235",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/018-BAQARAH223-235.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "title": "البقرة 225-234",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/019-BAQARAH225-234.mp3"
+                        },
+                        {
+                            "id": 20,
+                            "title": "البقرة 234-245",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/020-BAQARAH234-245.mp3"
+                        },
+                        {
+                            "id": 21,
+                            "title": "البقرة 246-252",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/021-BAQARAH246-252.mp3"
+                        }
+                    ]
+                },
+                {
+                    "juz_number": 3,
+                    "juz_name": "الجزء الثالث",
+                    "lessons": [
+                        {
+                            "id": 22,
+                            "title": "البقرة 253-259",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/022-BAQARAH253-259.mp3"
+                        },
+                        {
+                            "id": 23,
+                            "title": "البقرة 260-269",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/023-BAQARAH260-269.mp3"
+                        },
+                        {
+                            "id": 24,
+                            "title": "البقرة 270-281",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/024-BAQARAH270-281.mp3"
+                        },
+                        {
+                            "id": 25,
+                            "title": "البقرة 282-286",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/025-BAQARAH282-286.mp3"
+                        },
+                        {
+                            "id": 26,
+                            "title": "آل عمران 1-15",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/026-AAL-IMRAN1-15.mp3"
+                        },
+                        {
+                            "id": 27,
+                            "title": "آل عمران 16-30",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/027-CIMRAN16-29.mp3"
+                        },
+                        {
+                            "id": 28,
+                            "title": "آل عمران 30-45",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/028-CIMRAN30-46.mp3"
+                        },
+                        {
+                            "id": 29,
+                            "title": "آل عمران 46-61",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/029-CIMRAN47-61.mp3"
+                        },
+                        {
                             "id": 30,
-                            "title": "النبأ والنازعات 1-15",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/292%20naba%201%20naasicaad%2015.mp3"
+                            "title": "آل عمران 62-77",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/030-CIMRAN62-77.mp3"
                         },
                         {
                             "id": 31,
-                            "title": "النازعات 16 وعبس",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/293%20naasicaad%2016%20cabasa%20293.mp3"
-                        },
-                        {
-                            "id": 32,
-                            "title": "التكوير والانفطار",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/294%20Takwiir%20infidhaar.mp3"
-                        },
+                            "title": "آل عمران 78-91",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/031-CIMRAN78-91.mp3"
+                        }
+                    ]
+                },
+                {
+                    "juz_number": 32,
+                    "juz_name": "الجزء  الرابع ",
+                    "lessons": [
                         {
                             "id": 33,
-                            "title": "المطففين والانشقاق",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/295%20mudhafifin%20inshiqaaq.mp3"
+                            "title": "آل عمران 92-108",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/032-Cimran92-108.mp3"
                         },
                         {
                             "id": 34,
-                            "title": "البروج والطارق والأعلى",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/296%20buruuj%20dhariq%20aclaa.mp3"
-                        },
-                        {
-                            "id": 35,
-                            "title": "الغاشية والفجر",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/5a59ad00cde178a92f6d9c5da1ce7fb0e06d3577/297%20Qaashiya%20Fajri.mp3"
-                        },
-                        {
-                            "id": 36,
-                            "title": "البلد والشمس والليل",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/298%20Balad%20shamsi%20layl.mp3"
-                        },
-                        {
-                            "id": 37,
-                            "title": "الضحى إلى العلق",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/299%20Duxaa%20ilaa%20Calaq.mp3"
-                        },
-                        {
-                            "id": 38,
-                            "title": "القدر إلى العاديات",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/300%20Qadri%20ilaa%20Caadiyaat.mp3"
-                        },
-                        {
-                            "id": 39,
-                            "title": "القارعة إلى الفيل",
-                            "audio_url": "https://raw.githubusercontent.com/Ilyaasc97/tafsir-hore/main/301%20Qarica%20102%20Takathur%20103%20Casar%20104%20Humasah%20105%20Fil.mp3"
+                            "title": "آل عمران 109-120",
+                            "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/034-Cimran109-120.mp3"
                         }
                     ]
                 }
