@@ -10,57 +10,57 @@
             "lessons": [
                 {
                     "id": 1,
-                    "title": "001 الفاتحة 1 7",
+                    "title": "001 الفاتحة 1-7",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/001-FAIHA1-7.mp3"
                 },
                 {
                     "id": 2,
-                    "title": "002 البقرة 1 16",
+                    "title": "002 البقرة 1-16",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/002-BAQARAH1-16.mp3"
                 },
                 {
                     "id": 3,
-                    "title": "003 البقرة 17 29",
+                    "title": "003 البقرة 17-29",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/003-BAQARAH17-29.mp3"
                 },
                 {
                     "id": 4,
-                    "title": "004 البقرة 30 48",
+                    "title": "004 البقرة 30-48",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/004-BAQARAH30-48.mp3"
                 },
                 {
                     "id": 5,
-                    "title": "005 البقرة 49 61",
+                    "title": "005 البقرة 49-61",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/005-BAQARAH49-61.mp3"
                 },
                 {
                     "id": 6,
-                    "title": "006 البقرة 62 76",
+                    "title": "006 البقرة 62-76",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/006-BAQARAH62-76.mp3"
                 },
                 {
                     "id": 7,
-                    "title": "007 البقرة 77 88",
+                    "title": "007 البقرة 77-88",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/007-BAQARAH77-88.mp3"
                 },
                 {
                     "id": 8,
-                    "title": "008 البقرة 89 101",
+                    "title": "008 البقرة 89-101",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/008-BAQARAH89-101.mp3"
                 },
                 {
                     "id": 9,
-                    "title": "009 البقرة 102 112",
+                    "title": "009 البقرة 102-112",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/009-BAQARAH102-112.mp3"
                 },
                 {
                     "id": 10,
-                    "title": "010 البقرة 113 126",
+                    "title": "010 البقرة 113-126",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/010-BAQARAH113-126.mp3"
                 },
                 {
                     "id": 11,
-                    "title": "011 البقرة 127 141",
+                    "title": "011 البقرة 127-141",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/011-BAQARAH127-141.mp3"
                 }
             ]
@@ -71,58 +71,53 @@
             "lessons": [
                 {
                     "id": 12,
-                    "title": "012 البقرة 142 153",
+                    "title": "012 البقرة 142-153",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/012-BAQARAH142-153.mp3"
                 },
                 {
                     "id": 13,
-                    "title": "013 البقرة 154 169",
+                    "title": "013 البقرة 154-169",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/013-BAQARAH154-169.mp3"
                 },
                 {
                     "id": 14,
-                    "title": "014 البقرة 170 182",
+                    "title": "014 البقرة 170-182",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/014-BAQARAH170-182.mp3"
                 },
                 {
                     "id": 15,
-                    "title": "015 البقرة 183 189",
+                    "title": "015 البقرة 183-189",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/015-BAQARAH183-189.mp3"
                 },
                 {
                     "id": 16,
-                    "title": "016 البقرة 190 202",
+                    "title": "016 البقرة 190-202",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/016-BAQARAH190-202.mp3"
                 },
                 {
                     "id": 17,
-                    "title": "017 البقرة 203 215",
+                    "title": "017 البقرة 203-215",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/017-BAQARAH203-215.mp3"
                 },
                 {
                     "id": 18,
-                    "title": "018 البقرة 216 2124",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/018-BAQARAH216-2124.mp3"
+                    "title": "018 البقرة 216-224",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/018-BAQARAH216-224.mp3"
                 },
                 {
                     "id": 19,
-                    "title": "019 البقرة 225 233",
+                    "title": "019 البقرة 225-233",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/019-BAQARAH225-233.mp3"
                 },
                 {
                     "id": 20,
-                    "title": "020 البقرة 234 245",
+                    "title": "020 البقرة 234-245",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/020-BAQARAH234-245.mp3"
                 },
                 {
                     "id": 21,
-                    "title": "021 البقرة 246 252",
+                    "title": "021 البقرة 246-252",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/021-BAQARAH246-252.mp3"
-                },
-                {
-                    "id": 22,
-                    "title": "022 البقرة 253 259",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/022-BAQARAH253-259.mp3"
                 }
             ]
         },
@@ -131,54 +126,54 @@
             "juz_name": "الجزء الثالث",
             "lessons": [
                 {
+                    "id": 22,
+                    "title": "022 البقرة 253-259",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/022-BAQARAH253-259.mp3"
+                },
+                {
                     "id": 23,
-                    "title": "023 البقرة 260 269",
+                    "title": "023 البقرة 260-269",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/023-BAQARAH260-269.mp3"
                 },
                 {
                     "id": 24,
-                    "title": "024 البقرة 270 281",
+                    "title": "024 البقرة 270-281",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/024-BAQARAH270-281.mp3"
                 },
                 {
                     "id": 25,
-                    "title": "025 البقرة 282 286",
+                    "title": "025 البقرة 282-286",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/025-BAQARAH282-286.mp3"
                 },
                 {
                     "id": 26,
-                    "title": "026 آل عمران 1 15",
+                    "title": "026 آل عمران 1-15",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/026-CIMRAN1-15.mp3"
                 },
                 {
                     "id": 27,
-                    "title": "027 آل عمران 16 29",
+                    "title": "027 آل عمران 16-29",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/027-CIMRAN16-29.mp3"
                 },
                 {
                     "id": 28,
-                    "title": "028 آل عمران 30 46",
+                    "title": "028 آل عمران 30-46",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/028-CIMRAN30-46.mp3"
                 },
                 {
                     "id": 29,
-                    "title": "029 آل عمران 47 61",
+                    "title": "029 آل عمران 47-61",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/029-CIMRAN47-61.mp3"
                 },
                 {
                     "id": 30,
-                    "title": "030 آل عمران 62 77",
+                    "title": "030 آل عمران 62-77",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/030-CIMRAN62-77.mp3"
                 },
                 {
                     "id": 31,
-                    "title": "031 آل عمران 78 91",
+                    "title": "031 آل عمران 78-91",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/031-CIMRAN78-91.mp3"
-                },
-                {
-                    "id": 32,
-                    "title": "032 آل عمران 92 108",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/032-Cimran92-108.mp3"
                 }
             ]
         },
@@ -187,54 +182,54 @@
             "juz_name": "الجزء الرابع",
             "lessons": [
                 {
+                    "id": 32,
+                    "title": "032 آل عمران 92-108",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/032-Cimran92-108.mp3"
+                },
+                {
                     "id": 33,
-                    "title": "033 آل عمران 109 120",
+                    "title": "033 آل عمران 109-120",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/033-CIMRAN109-120.mp3"
                 },
                 {
                     "id": 34,
-                    "title": "034 آل عمران 121 141",
+                    "title": "034 آل عمران 121-141",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/034-CIMRAN121-141.mp3"
                 },
                 {
                     "id": 35,
-                    "title": "035 آل عمران 141 153",
+                    "title": "035 آل عمران 141-153",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/035-CIMRAN141-153.mp3"
                 },
                 {
                     "id": 36,
-                    "title": "036 آل عمران 154 165",
+                    "title": "036 آل عمران 154-165",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/036-CIMRAN154-165.mp3"
                 },
                 {
                     "id": 37,
-                    "title": "037 آل عمران 166 180",
+                    "title": "037 آل عمران 166-180",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/037-CIMRAN166-180.mp3"
                 },
                 {
                     "id": 38,
-                    "title": "038 آل عمران 181 194",
+                    "title": "038 آل عمران 181-194",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/038-CIMRAN181-194.mp3"
                 },
                 {
                     "id": 39,
-                    "title": "039 Cimraan195  النساء 6",
+                    "title": "039 آل عمران 195-200  النساء 1-6",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/039-Cimraan195-Nisa6.mp3"
                 },
                 {
                     "id": 40,
-                    "title": "040 النساء 106 121",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/040-NISA106-121.mp3"
+                    "title": "040 النساء 7-14",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/040-NISA7-14.mp3"
                 },
                 {
                     "id": 41,
-                    "title": "041 النساء 122 134",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/041-NISA122-134.mp3"
-                },
-                {
-                    "id": 42,
-                    "title": "042 النساء 135 147",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/042-NISA135-147.mp3"
+                    "title": "041 النساء 15-23",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/041-NISA15-23.mp3"
                 }
             ]
         },
@@ -243,54 +238,59 @@
             "juz_name": "الجزء الخامس",
             "lessons": [
                 {
+                    "id": 42,
+                    "title": "042 النساء 24-33",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/042-NISA24-33.mp3"
+                },
+                {
                     "id": 43,
-                    "title": "043 النساء 148 162",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/043-NISA148-162.mp3"
+                    "title": "043 النساء 34-44",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/043-NISA34-44.mp3"
                 },
                 {
                     "id": 44,
-                    "title": "044 النساء 15 23",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/044-NISA15-23-.mp3"
+                    "title": "044 النساء 45-59",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/044-NISA45-59.mp3"
                 },
                 {
                     "id": 45,
-                    "title": "045 النساء 24 33",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/045-NISA24-33.mp3"
+                    "title": "045 النساء 60-74",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/045-NISA60-74.mp3"
                 },
                 {
                     "id": 46,
-                    "title": "046 النساء 34 44",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/046-NISA34-44.mp3"
+                    "title": "046 النساء 75-86",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/046-NISA75-86.mp3"
                 },
                 {
                     "id": 47,
-                    "title": "047 النساء 45 59",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/047-NISA45-59.mp3"
+                    "title": "047 النساء 87-94",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/047-NISA87-94.mp3"
                 },
                 {
                     "id": 48,
-                    "title": "048 النساء 60 74",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/048-NISA60-74.mp3"
+                    "title": "048 النساء 95-105",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/048-NISA95-105.mp3"
                 },
                 {
                     "id": 49,
-                    "title": "049 النساء 7 14",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/049-NISA7-14.mp3"
+                    "title": "049 النساء 106-121",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/049-NISA106-121.mp3"
                 },
                 {
                     "id": 50,
-                    "title": "050 النساء 75 86",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/050-NISA75-86.mp3"
+                    "title": "050 النساء 122-134",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/050-NISA122-134.mp3"
                 },
                 {
                     "id": 51,
-                    "title": "051 النساء 87 94",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/051-NISA87-94.mp3"
+                    "title": "051 النساء 135-147",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/051-NISA135-147.mp3"
                 },
                 {
                     "id": 52,
-                    "title": "052 النساء 95 105",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/052-NISA95-105.mp3"
+                    "title": "052 النساء 148-162",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/052-NISA148-162.mp3"
                 }
             ]
         },
@@ -300,53 +300,48 @@
             "lessons": [
                 {
                     "id": 53,
-                    "title": "053 النساء 163 176",
+                    "title": "053 النساء 163-176",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/053-NISA163-176.mp3"
                 },
                 {
                     "id": 54,
-                    "title": "054 المائدة 1 5",
+                    "title": "054 المائدة 1-5",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/054-MA`IDAH1-5.mp3"
                 },
                 {
                     "id": 55,
-                    "title": "055 المائدة 6 13",
+                    "title": "055 المائدة 6-13",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/055-MA`IDAH6-13.mp3"
                 },
                 {
                     "id": 56,
-                    "title": "056 المائدة 14 23",
+                    "title": "056 المائدة 14-23",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/056-MA`IDAH14-23.mp3"
                 },
                 {
                     "id": 57,
-                    "title": "057 المائدة 24 37",
+                    "title": "057 المائدة 24-37",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/057-MA`IDAH24-37.mp3"
                 },
                 {
                     "id": 58,
-                    "title": "058 المائدة 38 45",
+                    "title": "058 المائدة 38-45",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/058-MA`IDAH38-45.mp3"
                 },
                 {
                     "id": 59,
-                    "title": "059 المائدة 46 57",
+                    "title": "059 المائدة 46-57",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/059-MA`IDAH46-57.mp3"
                 },
                 {
                     "id": 60,
-                    "title": "060 المائدة 58 70",
+                    "title": "060 المائدة 58-70",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/060-MA`IDAH58-70.mp3"
                 },
                 {
                     "id": 61,
-                    "title": "061 المائدة 71 82",
+                    "title": "061 المائدة 71-82",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/061-MA`IDAH71-82.mp3"
-                },
-                {
-                    "id": 62,
-                    "title": "062 المائدة 83 95",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/062-MA`IDAH83-95.mp3"
                 }
             ]
         },
@@ -355,54 +350,54 @@
             "juz_name": "الجزء السابع",
             "lessons": [
                 {
+                    "id": 62,
+                    "title": "062 المائدة 83-95",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/062-MA`IDAH83-95.mp3"
+                },
+                {
                     "id": 63,
-                    "title": "063 المائدة 96 10",
+                    "title": "063 المائدة 96-10",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/063-MA`IDAH96-10.mp3"
                 },
                 {
                     "id": 64,
-                    "title": "064 المائدة 109 10",
+                    "title": "064 المائدة 109-10",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/064-MA`IDAH109-10.mp3"
                 },
                 {
                     "id": 65,
-                    "title": "065 الأنعام 1 18",
+                    "title": "065 الأنعام 1-18",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/065-ANCAM1-18.mp3"
                 },
                 {
                     "id": 66,
-                    "title": "066 الأنعام 19 35",
+                    "title": "066 الأنعام 19-35",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/066-ANCAM19-35.mp3"
                 },
                 {
                     "id": 67,
-                    "title": "067 الأنعام 36 52",
+                    "title": "067 الأنعام 36-52",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/067-ANCAM36-52.mp3"
                 },
                 {
                     "id": 68,
-                    "title": "068 الأنعام 53 68",
+                    "title": "068 الأنعام 53-68",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/068-ANCAM53-68.mp3"
                 },
                 {
                     "id": 69,
-                    "title": "069 الأنعام 69 81",
+                    "title": "069 الأنعام 69-81",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/069-ANCAM69-81.mp3"
                 },
                 {
                     "id": 70,
-                    "title": "070 الأنعام 82 94",
+                    "title": "070 الأنعام 82-94",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/070-ANCAM82-94.mp3"
                 },
                 {
                     "id": 71,
-                    "title": "071 الأنعام 95 110",
+                    "title": "071 الأنعام 95-110",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/071-ANCAM95-110.mp3"
-                },
-                {
-                    "id": 72,
-                    "title": "072 الأنعام 111 124",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/072-ANCAM111-124.mp3"
                 }
             ]
         },
@@ -411,54 +406,54 @@
             "juz_name": "الجزء الثامن",
             "lessons": [
                 {
+                    "id": 72,
+                    "title": "072 الأنعام 111-124",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/072-ANCAM111-124.mp3"
+                },
+                {
                     "id": 73,
-                    "title": "073 الأنعام 125 137",
+                    "title": "073 الأنعام 125-137",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/073-ANCAM125-137.mp3"
                 },
                 {
                     "id": 74,
-                    "title": "074 الأنعام 138 146",
+                    "title": "074 الأنعام 138-146",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/074-ANCAM138-146.mp3"
                 },
                 {
                     "id": 75,
-                    "title": "075 الأنعام 147 157",
+                    "title": "075 الأنعام 147-157",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/075-ANCAM147-157.mp3"
                 },
                 {
                     "id": 76,
-                    "title": "076 الأنعام 158 Acraf11",
+                    "title": "076 الأنعام 158-الأعراف 1-11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/076Ancaam158-Acraf11.mp3"
                 },
                 {
                     "id": 77,
-                    "title": "077 الأعراف 12 30",
+                    "title": "077 الأعراف 12-30",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/077-ACRAAF12-30.mp3"
                 },
                 {
                     "id": 78,
-                    "title": "078 الأعراف 31 43",
+                    "title": "078 الأعراف 31-43",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/078-ACRAAF31-43.mp3"
                 },
                 {
                     "id": 79,
-                    "title": "079 الأعراف 44 57",
+                    "title": "079 الأعراف 44-57",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/079-ACRAAF44-57.mp3"
                 },
                 {
                     "id": 80,
-                    "title": "080 الأعراف 58 73",
+                    "title": "080 الأعراف 58-73",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/080-ACRAAF58-73.mp3"
                 },
                 {
                     "id": 81,
-                    "title": "081 الأعراف 74 87",
+                    "title": "081 الأعراف 74-87",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/081-ACRAAF74-87.mp3"
-                },
-                {
-                    "id": 82,
-                    "title": "082 الأعراف 88 103",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/082-ACRAAF88-103.mp3"
                 }
             ]
         },
@@ -467,54 +462,54 @@
             "juz_name": "الجزء التاسع",
             "lessons": [
                 {
+                    "id": 82,
+                    "title": "082 الأعراف 88-103",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/082-ACRAAF88-103.mp3"
+                },
+                {
                     "id": 83,
-                    "title": "083 الأعراف 104 13",
+                    "title": "083 الأعراف 104-13",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/083-ACRAAF104-13.mp3"
                 },
                 {
                     "id": 84,
-                    "title": "084 الأعراف 131 14",
+                    "title": "084 الأعراف 131-14",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/084-ACRAAF131-14.mp3"
                 },
                 {
                     "id": 85,
-                    "title": "085 الأعراف 144 15",
+                    "title": "085 الأعراف 144-15",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/085-ACRAAF144-15.mp3"
                 },
                 {
                     "id": 86,
-                    "title": "086 الأعراف 156 16",
+                    "title": "086 الأعراف 156-16",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/086-ACRAAF156-16.mp3"
                 },
                 {
                     "id": 87,
-                    "title": "087 الأعراف 164 17",
+                    "title": "087 الأعراف 164-17",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/087-ACRAAF164-17.mp3"
                 },
                 {
                     "id": 88,
-                    "title": "088 الأعراف 179 19",
+                    "title": "088 الأعراف 179-19",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/088-ACRAAF179-19.mp3"
                 },
                 {
                     "id": 89,
-                    "title": "089 الأعراف 196 ANFAL8",
+                    "title": "089 الأعراف 196-ANFAL8",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/089-ACRAAF196-ANFAL8.mp3"
                 },
                 {
                     "id": 90,
-                    "title": "090 الأنفال 9 25",
+                    "title": "090 الأنفال 9-25",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/090-ANFAL9-25.mp3"
                 },
                 {
                     "id": 91,
-                    "title": "091 الأنفال 26 40",
+                    "title": "091 الأنفال 26-40",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/091-ANFAL26-40.mp3"
-                },
-                {
-                    "id": 92,
-                    "title": "092 الأنفال 41 52",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/092-ANFAL41-52.mp3"
                 }
             ]
         },
@@ -523,54 +518,54 @@
             "juz_name": "الجزء العاشر",
             "lessons": [
                 {
+                    "id": 92,
+                    "title": "092 الأنفال 41-52",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/092-ANFAL41-52.mp3"
+                },
+                {
                     "id": 93,
-                    "title": "093 الأنفال 53 69",
+                    "title": "093 الأنفال 53-69",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/093-ANFAL53-69.mp3"
                 },
                 {
                     "id": 94,
-                    "title": "094 الأنفال 70 TAWB6",
+                    "title": "094 الأنفال 70-TAWB6",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/094-ANFAL70-TAWB6.mp3"
                 },
                 {
                     "id": 95,
-                    "title": "095 التوبة 7 20",
+                    "title": "095 التوبة 7-20",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/095-TAWBA7-20.mp3"
                 },
                 {
                     "id": 96,
-                    "title": "096 التوبة 21 31",
+                    "title": "096 التوبة 21-31",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/096-TAWBA21-31.mp3"
                 },
                 {
                     "id": 97,
-                    "title": "097 التوبة 32 40",
+                    "title": "097 التوبة 32-40",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/097-TAWBA32-40.mp3"
                 },
                 {
                     "id": 98,
-                    "title": "098 التوبة 41 54",
+                    "title": "098 التوبة 41-54",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/098-TAWBA41-54.mp3"
                 },
                 {
                     "id": 99,
-                    "title": "099 التوبة 55 68",
+                    "title": "099 التوبة 55-68",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/099-TAWBA55-68.mp3"
                 },
                 {
                     "id": 100,
-                    "title": "100 التوبة 69 79",
+                    "title": "100 التوبة 69-79",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/100-TAWBA69-79.mp3"
                 },
                 {
                     "id": 101,
-                    "title": "101 التوبة 80 93",
+                    "title": "101 التوبة 80-93",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/101-TAWBA80-93.mp3"
-                },
-                {
-                    "id": 102,
-                    "title": "102 التوبة 94 106",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/102-TAWBA94-106.mp3"
                 }
             ]
         },
@@ -579,54 +574,54 @@
             "juz_name": "الجزء الحادي عشر",
             "lessons": [
                 {
+                    "id": 102,
+                    "title": "102 التوبة 94-106",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/102-TAWBA94-106.mp3"
+                },
+                {
                     "id": 103,
-                    "title": "103 التوبة 107 117",
+                    "title": "103 التوبة 107-117",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/103-TAWBA107-117.mp3"
                 },
                 {
                     "id": 104,
-                    "title": "104 التوبة 117 129",
+                    "title": "104 التوبة 117-129",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/104-TAWBA117-129.mp3"
                 },
                 {
                     "id": 105,
-                    "title": "105 يونس 1 14",
+                    "title": "105 يونس 1-14",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/105-YUNUS1-14.mp3"
                 },
                 {
                     "id": 106,
-                    "title": "106 يونس 15 25",
+                    "title": "106 يونس 15-25",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/106-YUNUS15-25.mp3"
                 },
                 {
                     "id": 107,
-                    "title": "107 يونس 26 42",
+                    "title": "107 يونس 26-42",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/107-YUNUS26-42.mp3"
                 },
                 {
                     "id": 108,
-                    "title": "108 يونس 43 59",
+                    "title": "108 يونس 43-59",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/108-YUNUS43-59.mp3"
                 },
                 {
                     "id": 109,
-                    "title": "109 يونس 60 78",
+                    "title": "109 يونس 60-78",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/109-YUNUS60-78.mp3"
                 },
                 {
                     "id": 110,
-                    "title": "110 يونس 79 97",
+                    "title": "110 يونس 79-97",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/110-YUNUS79-97.mp3"
                 },
                 {
                     "id": 111,
                     "title": "111 يونس 98 HUUD",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/111-YUNUS98-HUUD.mp3"
-                },
-                {
-                    "id": 112,
-                    "title": "112 هود 6 19",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/112-HUUD6-19.mp3"
                 }
             ]
         },
@@ -635,54 +630,54 @@
             "juz_name": "الجزء الثاني عشر",
             "lessons": [
                 {
+                    "id": 112,
+                    "title": "112 هود 6-19",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/112-HUUD6-19.mp3"
+                },
+                {
                     "id": 113,
-                    "title": "113 هود 20 37",
+                    "title": "113 هود 20-37",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/113-HUUD20-37.mp3"
                 },
                 {
                     "id": 114,
-                    "title": "114 هود 38 53",
+                    "title": "114 هود 38-53",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/114-HUUD38-53.mp3"
                 },
                 {
                     "id": 115,
-                    "title": "115 هود 54 71",
+                    "title": "115 هود 54-71",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/115-HUUD54-71.mp3"
                 },
                 {
                     "id": 116,
-                    "title": "116 هود 72 88",
+                    "title": "116 هود 72-88",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/116-HUUD72-88.mp3"
                 },
                 {
                     "id": 117,
-                    "title": "117 هود 89 108",
+                    "title": "117 هود 89-108",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/117-HUUD89-108.mp3"
                 },
                 {
                     "id": 118,
-                    "title": "118 هود 109 YUSU5",
+                    "title": "118 هود 109-YUSU5",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/118-HUUD109-YUSU5.mp3"
                 },
                 {
                     "id": 119,
-                    "title": "119 يوسف 5 22",
+                    "title": "119 يوسف 5-22",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/119-YUSUF5-22.mp3"
                 },
                 {
                     "id": 120,
-                    "title": "120 يوسف 23 37",
+                    "title": "120 يوسف 23-37",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/120-YUSUF23-37.mp3"
                 },
                 {
                     "id": 121,
-                    "title": "121 يوسف 38 53",
+                    "title": "121 يوسف 38-53",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/121-YUSUF38-53.mp3"
-                },
-                {
-                    "id": 122,
-                    "title": "122 يوسف 53 69",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/122-YUSUF53-69.mp3"
                 }
             ]
         },
@@ -691,54 +686,64 @@
             "juz_name": "الجزء الثالث عشر",
             "lessons": [
                 {
+                    "id": 122,
+                    "title": "122 يوسف 53-69",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/122-YUSUF53-69.mp3"
+                },
+                {
                     "id": 123,
-                    "title": "123 يوسف 70 86",
+                    "title": "123 يوسف 70-86",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/123-YUSUF70-86.mp3"
                 },
                 {
                     "id": 124,
-                    "title": "124 يوسف 87 103",
+                    "title": "124 يوسف 87-103",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/124-YUSUF87-103.mp3"
                 },
                 {
                     "id": 125,
-                    "title": "125 يوسف 104 RAC5",
+                    "title": "125 يوسف 104-5",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/125-YUSUF104-RAC5.mp3"
                 },
                 {
                     "id": 126,
-                    "title": "126 الرعد D6 18",
+                    "title": "126 الرعد 6-18",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/126-RACD6-18.mp3"
                 },
                 {
                     "id": 127,
-                    "title": "127 الرعد D19 34",
+                    "title": "127 الرعد 19-34",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/127-RACD19-34.mp3"
                 },
                 {
                     "id": 128,
-                    "title": "128 الرعد D35 43",
+                    "title": "128 الرعد 35-43",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/128-RACD35-43.mp3"
                 },
                 {
                     "id": 129,
-                    "title": "129 الرعد D35 Ibrahim5",
+                    "title": "129 الرعد 35- إبراهيم 5",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/129-RACD35-Ibrahim5.mp3"
                 },
                 {
                     "id": 130,
-                    "title": "130 إبراهيم 6 18",
+                    "title": "130 إبراهيم 6-18",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/130-Ibrahim6-18.mp3"
                 },
                 {
                     "id": 131,
-                    "title": "131 إبراهيم 15",
+                    "title": "131 32-إبراهيم 15",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/131-ibrahim15.mp3"
                 },
                 {
                     "id": 132,
-                    "title": "132 إبراهيم 19 33",
+                    "title": "132 إبراهيم 19-33",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/132-Ibrahim19-33.mp3"
+                },
+                {
+                    "id": 133,
+                    "title": "133 إبراهيم 34-52",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/133-Ibrahim34-52.mp3"
                 }
             ]
         },
@@ -747,54 +752,64 @@
             "juz_name": "الجزء الرابع عشر",
             "lessons": [
                 {
-                    "id": 133,
-                    "title": "133 إبراهيم 34 52",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/133-Ibrahim34-52.mp3"
-                },
-                {
                     "id": 134,
-                    "title": "134 الحجر 1 31",
+                    "title": "134 الحجر 1-31",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/134-Xijri1-31.mp3"
                 },
                 {
                     "id": 135,
-                    "title": "135 الحجر 32 70",
+                    "title": "135 الحجر 32-70",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/135-Xijri32-70.mp3"
                 },
                 {
                     "id": 136,
-                    "title": "136 الحجر 71 99",
+                    "title": "136 الحجر 71-99",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/136-Xijri71-99.mp3"
                 },
                 {
                     "id": 137,
-                    "title": "137 الحجر 71 Naxl6",
+                    "title": "137 الحجر 71 النحل 1",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/137-Xijri71-Naxl6.mp3"
                 },
                 {
                     "id": 138,
-                    "title": "138 النحل i1 6",
+                    "title": "138 النحل 1-6",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/138-Naxli1-6.mp3"
                 },
                 {
                     "id": 139,
-                    "title": "139 النحل i7 26",
+                    "title": "139 النحل 7-26",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/139-Naxli7-26.mp3"
                 },
                 {
                     "id": 140,
-                    "title": "140 النحل i28 42",
+                    "title": "140 النحل 28-42",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/140-Naxli28-42.mp3"
                 },
                 {
                     "id": 141,
-                    "title": "141 النحل i43 64",
+                    "title": "141 النحل 43-64",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/141-Naxli43-64.mp3"
                 },
                 {
                     "id": 142,
-                    "title": "142 النحل i65 79",
+                    "title": "142 النحل 65-79",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/142-Naxli65-79.mp3"
+                },
+                {
+                    "id": 143,
+                    "title": "143 النحل 80-93",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/143-Naxli80-93.mp3"
+                },
+                {
+                    "id": 144,
+                    "title": "144 النحل 94-110",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/144-Naxli94-110.mp3"
+                },
+                {
+                    "id": 145,
+                    "title": "145 النحل 111-128",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/145-Naxli111-128.mp3"
                 }
             ]
         },
@@ -803,54 +818,54 @@
             "juz_name": "الجزء الخامس عشر",
             "lessons": [
                 {
-                    "id": 143,
-                    "title": "143 النحل i80 93",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/143-Naxli80-93.mp3"
-                },
-                {
-                    "id": 144,
-                    "title": "144 النحل i94 110",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/144-Naxli94-110.mp3"
-                },
-                {
-                    "id": 145,
-                    "title": "145 النحل i111 128",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/145-Naxli111-128.mp3"
-                },
-                {
                     "id": 146,
-                    "title": "146 الإسراء 1 17",
+                    "title": "146 الإسراء 1-17",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/146-Isra1-17.mp3"
                 },
                 {
                     "id": 147,
-                    "title": "147 الإسراء 18 38",
+                    "title": "147 الإسراء 18-38",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/147-Isra18-38.mp3"
                 },
                 {
                     "id": 148,
-                    "title": "148 الإسراء 39 58",
+                    "title": "148 الإسراء 39-58",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/148-Isra39-58.mp3"
                 },
                 {
                     "id": 149,
-                    "title": "149 الإسراء 59 75",
+                    "title": "149 الإسراء 59-75",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/149-Isra59-75.mp3"
                 },
                 {
                     "id": 150,
-                    "title": "150 الإسراء 76 96",
+                    "title": "150 الإسراء 76-96",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/150-Isra76-96.mp3"
                 },
                 {
                     "id": 151,
-                    "title": "151 الإسراء 97 111",
+                    "title": "151 الإسراء 97-111",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/151-Isra97-111.mp3"
                 },
                 {
                     "id": 152,
-                    "title": "152 الكهف 1 20",
+                    "title": "152 الكهف 1-20",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/152-Kahfi1-20.mp3"
+                },
+                {
+                    "id": 153,
+                    "title": "153 الكهف 21-34",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/153-Kahfi21-34.mp3"
+                },
+                {
+                    "id": 154,
+                    "title": "154 الكهف 35-53",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/154-Kahfi35-53.mp3"
+                },
+                {
+                    "id": 155,
+                    "title": "155 الكهف 54-74",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/155-Kahfi54-74.mp3"
                 }
             ]
         },
@@ -859,54 +874,49 @@
             "juz_name": "الجزء السادس عشر",
             "lessons": [
                 {
-                    "id": 153,
-                    "title": "153 الكهف 21 34",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/153-Kahfi21-34.mp3"
-                },
-                {
-                    "id": 154,
-                    "title": "154 الكهف 35 53",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/154-Kahfi35-53.mp3"
-                },
-                {
-                    "id": 155,
-                    "title": "155 الكهف 54 74",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/155-Kahfi54-74.mp3"
-                },
-                {
                     "id": 156,
-                    "title": "156 الكهف 75 97",
+                    "title": "156 الكهف 75-97",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/156-Kahfi75-97.mp3"
                 },
                 {
                     "id": 157,
-                    "title": "157 الكهف 98 11mayama",
+                    "title": "157 الكهف 98-111-مريما 1-11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/157-Kahfi98-11mayama.mp3"
                 },
                 {
                     "id": 158,
-                    "title": "158 مريم 12 38",
+                    "title": "158 مريم 12-38",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/158-Maryama12-38.mp3"
                 },
                 {
                     "id": 159,
-                    "title": "159 مريم 39 64",
+                    "title": "159 مريم 39-64",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/159-Maryama39-64.mp3"
                 },
                 {
                     "id": 160,
-                    "title": "160 مريم 65 98",
+                    "title": "160 مريم 65-98",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/160-Maryama65-98.mp3"
                 },
                 {
                     "id": 161,
-                    "title": "161 طه 1 37",
+                    "title": "161 طه 1-37",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/161-Dhaha1-37.mp3"
                 },
                 {
                     "id": 162,
-                    "title": "162 طه 38 64",
+                    "title": "162 طه 38-64",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/162-Dhaha38-64.mp3"
+                },
+                {
+                    "id": 163,
+                    "title": "163 طه 65-87",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/163-Dhaha65-87.mp3"
+                },
+                {
+                    "id": 164,
+                    "title": "164 طه 114-135",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/164-Dhaha114-135.mp3"
                 }
             ]
         },
@@ -915,54 +925,54 @@
             "juz_name": "الجزء السابع عشر",
             "lessons": [
                 {
-                    "id": 163,
-                    "title": "163 طه 65 87",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/163-Dhaha65-87.mp3"
-                },
-                {
-                    "id": 164,
-                    "title": "164 طه 114 135",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/164-Dhaha114-135.mp3"
-                },
-                {
                     "id": 165,
-                    "title": "165 الأنبياء 1 24",
+                    "title": "165 الأنبياء 1-24",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/165-Ambiya1-24.mp3"
                 },
                 {
                     "id": 166,
-                    "title": "166 الأنبياء 25 44",
+                    "title": "166 الأنبياء 25-44",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/166-Ambiya25-44.mp3"
                 },
                 {
                     "id": 167,
-                    "title": "167 الأنبياء 45 72",
+                    "title": "167 الأنبياء 45-72",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/167-Ambiya45-72.mp3"
                 },
                 {
                     "id": 168,
-                    "title": "168 الأنبياء 73 90",
+                    "title": "168 الأنبياء 73-90",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/168-Ambiya73-90.mp3"
                 },
                 {
                     "id": 169,
-                    "title": "169 الأنبياء 91 112",
+                    "title": "169 الأنبياء 91-112",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/169-Ambiya91-112.mp3"
                 },
                 {
                     "id": 170,
-                    "title": "170 الحج 1 15",
+                    "title": "170 الحج 1-15",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/170-Xaj1-15.mp3"
                 },
                 {
                     "id": 171,
-                    "title": "171 الحج 16 30",
+                    "title": "171 الحج 16-30",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/171-Xaj16-30.mp3"
                 },
                 {
                     "id": 172,
-                    "title": "172 الحج 31 46",
+                    "title": "172 الحج 31-46",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/172-Xaj31-46.mp3"
+                },
+                {
+                    "id": 173,
+                    "title": "173 الحج 47-64",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/173-Xaj47-64.mp3"
+                },
+                {
+                    "id": 174,
+                    "title": "174 الحج 65-78",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/174-Xaj65-78.mp3"
                 }
             ]
         },
@@ -971,54 +981,54 @@
             "juz_name": "الجزء الثامن عشر",
             "lessons": [
                 {
-                    "id": 173,
-                    "title": "173 الحج 47 64",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/173-Xaj47-64.mp3"
-                },
-                {
-                    "id": 174,
-                    "title": "174 الحج 65 78",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/174-Xaj65-78.mp3"
-                },
-                {
                     "id": 175,
-                    "title": "175 المؤمنون 1 27",
+                    "title": "175 المؤمنون 1-27",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/175-Muminun1-27.mp3"
                 },
                 {
                     "id": 176,
-                    "title": "176 المؤمنون 28 56",
+                    "title": "176 المؤمنون 28-56",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/176-Muminun28-56.mp3"
                 },
                 {
                     "id": 177,
-                    "title": "177 المؤمنون 57 89",
+                    "title": "177 المؤمنون 57-89",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/177-Muminun57-89.mp3"
                 },
                 {
                     "id": 178,
-                    "title": "178 المؤمنون 90 11",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/178-Muminun90-11.mp3"
+                    "title": "178 المؤمنون 90-112",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/178-Muminun90-112.mp3"
                 },
                 {
                     "id": 179,
-                    "title": "179 النور 1 20",
+                    "title": "179 النور 1-20",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/179-Nuur1-20.mp3"
                 },
                 {
                     "id": 180,
-                    "title": "180 النور 21 31",
+                    "title": "180 النور 21-31",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/180-Nuur21-31.mp3"
                 },
                 {
                     "id": 181,
-                    "title": "181 النور 32 43",
+                    "title": "181 النور 32-43",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/181-Nuur32-43.mp3"
                 },
                 {
                     "id": 182,
-                    "title": "182 النور 44 58",
+                    "title": "182 النور 44-58",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/182-Nuur44-58.mp3"
+                },
+                {
+                    "id": 183,
+                    "title": "183 النور 59-الفرقان 1-2",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/183-Nuur59-2fur.mp3"
+                },
+                {
+                    "id": 184,
+                    "title": "184 الفرقان 3-20",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/184-Furqaan3-20.mp3"
                 }
             ]
         },
@@ -1027,54 +1037,54 @@
             "juz_name": "الجزء التاسع عشر",
             "lessons": [
                 {
-                    "id": 183,
-                    "title": "183 النور 59 2fur",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/183-Nuur59-2fur.mp3"
-                },
-                {
-                    "id": 184,
-                    "title": "184 الفرقان 3 20",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/184-Furqaan3-20.mp3"
-                },
-                {
                     "id": 185,
-                    "title": "185 الفرقان 21 43",
+                    "title": "185 الفرقان 21-43",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/185-Furqaan21-43.mp3"
                 },
                 {
                     "id": 186,
-                    "title": "186 الفرقان 44 67",
+                    "title": "186 الفرقان 44-67",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/186-Furqaan44-67.mp3"
                 },
                 {
                     "id": 187,
-                    "title": "187 الفرقان 68 Shucara19",
+                    "title": "187 الفرقان 68 الشعراء 1-19",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/187-Furqaan68-Shucara19.mp3"
                 },
                 {
                     "id": 188,
-                    "title": "188 الشعراء 20 60",
+                    "title": "188 الشعراء 20-60",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/188-Shucara20-60.mp3"
                 },
                 {
                     "id": 189,
-                    "title": "189 الشعراء 61 111",
+                    "title": "189 الشعراء 61-111",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/189-Shucara61-111.mp3"
                 },
                 {
                     "id": 190,
-                    "title": "190 الشعراء 112 159",
+                    "title": "190 الشعراء 112-159",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/190-Shucara112-159.mp3"
                 },
                 {
                     "id": 191,
-                    "title": "191 الشعراء 160 204",
+                    "title": "191 الشعراء 160-204",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/191-Shucara160-204.mp3"
                 },
                 {
                     "id": 192,
-                    "title": "192 الشعراء 205 Namli13",
+                    "title": "192 الشعراء 205 النمل 13",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/192-Shucara205-Namli13.mp3"
+                },
+                {
+                    "id": 193,
+                    "title": "193 النمل 14-35",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/193-Naml14-35.mp3"
+                },
+                {
+                    "id": 194,
+                    "title": "194 النمل 36-55",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/194-Naml36-55.mp3"
                 }
             ]
         },
@@ -1083,54 +1093,49 @@
             "juz_name": "الجزء العشرون",
             "lessons": [
                 {
-                    "id": 193,
-                    "title": "193 النمل 14 35",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/193-Naml14-35.mp3"
-                },
-                {
-                    "id": 194,
-                    "title": "194 النمل 36 55",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/194-Naml36-55.mp3"
-                },
-                {
                     "id": 195,
-                    "title": "195 النمل 56 75",
+                    "title": "195 النمل 56-75",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/195-Naml56-75.mp3"
                 },
                 {
                     "id": 196,
-                    "title": "196 القصص 6 21",
+                    "title": "196 القصص 6-21",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/196-Qasas6-21.mp3"
                 },
                 {
                     "id": 197,
-                    "title": "197 القصص 22 35",
+                    "title": "197 القصص 22-35",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/197-Qasas22-35.mp3"
                 },
                 {
                     "id": 198,
-                    "title": "198 القصص 36 50",
+                    "title": "198 القصص 36-50",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/198-Qasas36-50.mp3"
                 },
                 {
                     "id": 199,
-                    "title": "199 القصص 51 70",
+                    "title": "199 القصص 51-70",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/199-Qasas51-70.mp3"
                 },
                 {
                     "id": 200,
-                    "title": "200 القصص 71 84",
+                    "title": "200 القصص 71-84",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/200-Qasas71-84.mp3"
                 },
                 {
                     "id": 201,
-                    "title": "201 القصص 85 Cankabut13",
+                    "title": "201 القصص 85 العنكبوت 13",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/201-Qasas85-Cankabut13.mp3"
                 },
                 {
                     "id": 202,
-                    "title": "202 العنكبوت 14 30",
+                    "title": "202 العنكبوت 14-30",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/202-Cankabut14-30.mp3"
+                },
+                {
+                    "id": 203,
+                    "title": "203 العنكبوت 31-45",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/203-Cankabut31-45.mp3"
                 }
             ]
         },
@@ -1139,38 +1144,33 @@
             "juz_name": "الجزء الحادي والعشرون",
             "lessons": [
                 {
-                    "id": 203,
-                    "title": "203 العنكبوت 31 45",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/203-Cankabut31-45.mp3"
-                },
-                {
                     "id": 204,
-                    "title": "204 العنكبوت 46 63",
+                    "title": "204 العنكبوت 46-63",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/204-Cankabut46-63.mp3"
                 },
                 {
                     "id": 205,
-                    "title": "205 العنكبوت 64 Ruum15",
+                    "title": "205 العنكبوت 64 الروم 15",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/205-Cankabut64-Ruum15.mp3"
                 },
                 {
                     "id": 206,
-                    "title": "206 الروم 16 32",
+                    "title": "206 الروم 16-32",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/206-Ruum16-32.mp3"
                 },
                 {
                     "id": 207,
-                    "title": "207 الروم 33 50",
+                    "title": "207 الروم 33-50",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/207-Ruum33-50.mp3"
                 },
                 {
                     "id": 208,
-                    "title": "208 الروم 51 60",
+                    "title": "208 الروم 51-60",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/208-Ruum51-60.mp3"
                 },
                 {
                     "id": 209,
-                    "title": "209 الروم 51 Luqman11",
+                    "title": "209 الروم 51 لقمان 11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/209-Ruum51-Luqman11.mp3"
                 },
                 {
@@ -1180,13 +1180,28 @@
                 },
                 {
                     "id": 211,
-                    "title": "211 لقمان 12 28",
+                    "title": "211 لقمان 12-28",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/211-Luqmaan12-28.mp3"
                 },
                 {
                     "id": 212,
-                    "title": "212 لقمان 29 Sajdah11",
+                    "title": "212 لقمان 29 سجدة 11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/212-Luqmaan29-Sajdah11.mp3"
+                },
+                {
+                    "id": 213,
+                    "title": "213 السجدة 12-30",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/213-Sajdah12-30.mp3"
+                },
+                {
+                    "id": 214,
+                    "title": "214 الأحزاب 1-15",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/214-Axzaab1-15.mp3"
+                },
+                {
+                    "id": 215,
+                    "title": "215 الأحزاب 16-30",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/215-Axzaab16-30.mp3"
                 }
             ]
         },
@@ -1195,54 +1210,49 @@
             "juz_name": "الجزء الثاني والعشرون",
             "lessons": [
                 {
-                    "id": 213,
-                    "title": "213 السجدة 12 30",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/213-Sajdah12-30.mp3"
-                },
-                {
-                    "id": 214,
-                    "title": "214 الأحزاب 1 15",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/214-Axzaab1-15.mp3"
-                },
-                {
-                    "id": 215,
-                    "title": "215 الأحزاب 16 30",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/215-Axzaab16-30.mp3"
-                },
-                {
                     "id": 216,
-                    "title": "216 الأحزاب 31 43",
+                    "title": "216 الأحزاب 31-43",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/216-Axzaab31-43.mp3"
                 },
                 {
                     "id": 217,
-                    "title": "217 الأحزاب 44 54",
+                    "title": "217 الأحزاب 44-54",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/217-Axzaab44-54.mp3"
                 },
                 {
                     "id": 218,
-                    "title": "218 سبأ 1 14",
+                    "title": "218 سبأ 1-14",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/218-Saba1-14.mp3"
                 },
                 {
                     "id": 219,
-                    "title": "219 سبأ 15 31",
+                    "title": "219 سبأ 15-31",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/219-Saba15-31.mp3"
                 },
                 {
                     "id": 220,
-                    "title": "220 سبأ 32 48",
+                    "title": "220 سبأ 32-48",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/220-Saba32-48.mp3"
                 },
                 {
                     "id": 221,
-                    "title": "221 سبأ 49 Fadir11",
+                    "title": "221 -سبأ 49 فاطر 11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/221-Saba49-Fadir11.mp3"
                 },
                 {
                     "id": 222,
-                    "title": "222 فاطر 12 30",
+                    "title": "222 فاطر 12-30",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/222-Fadhir12-30.mp3"
+                },
+                {
+                    "id": 223,
+                    "title": "223 فاطر 31-45",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/223-Fadhir31-45.mp3"
+                },
+                {
+                    "id": 224,
+                    "title": "224 يس 1-27",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/224-Yasiin1-27.mp3"
                 }
             ]
         },
@@ -1251,54 +1261,54 @@
             "juz_name": "الجزء الثالث والعشرون",
             "lessons": [
                 {
-                    "id": 223,
-                    "title": "223 فاطر 31 45",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/223-Fadhir31-45.mp3"
-                },
-                {
-                    "id": 224,
-                    "title": "224 يس 1 27",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/224-Yasiin1-27.mp3"
-                },
-                {
                     "id": 225,
-                    "title": "225 يس 28 54",
+                    "title": "225 يس 28-54",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/225-Yasiin28-54.mp3"
                 },
                 {
                     "id": 226,
-                    "title": "226 يس 55 83",
+                    "title": "226 يس 55-83",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/226-Yasiin55-83.mp3"
                 },
                 {
                     "id": 227,
-                    "title": "227 الصافات 1 51",
+                    "title": "227 الصافات 1-51",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/227-safaat1-51.mp3"
                 },
                 {
                     "id": 228,
-                    "title": "228 الصافات 52 102",
+                    "title": "228 الصافات 52-102",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/228-Safaat52-102.mp3"
                 },
                 {
                     "id": 229,
-                    "title": "229 الصافات 103 153",
+                    "title": "229 الصافات 103-153",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/229-Safaat103-153.mp3"
                 },
                 {
                     "id": 230,
-                    "title": "230 الصافات 154 Saad16",
+                    "title": "230 الصافات 154 ص 16",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/230-Safaat154-Saad16.mp3"
                 },
                 {
                     "id": 231,
-                    "title": "231 ص 17 42",
+                    "title": "231 ص 17-42",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/231-Saad17-42.mp3"
                 },
                 {
                     "id": 232,
-                    "title": "232 ص 43 88",
+                    "title": "232 ص 43-88",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/232-Saad43-88.mp3"
+                },
+                {
+                    "id": 233,
+                    "title": "233 الزمر 1-10",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/233-Zumar1-10.mp3"
+                },
+                {
+                    "id": 234,
+                    "title": "234 الزمر 11-31",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/234-Zumar11-31.mp3"
                 }
             ]
         },
@@ -1307,54 +1317,54 @@
             "juz_name": "الجزء الرابع والعشرون",
             "lessons": [
                 {
-                    "id": 233,
-                    "title": "233 الزمر 1 10",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/233-Zumar1-10.mp3"
-                },
-                {
-                    "id": 234,
-                    "title": "234 الزمر 11 31",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/234-Zumar11-31.mp3"
-                },
-                {
                     "id": 235,
-                    "title": "235 الزمر 32 47",
+                    "title": "235 الزمر 32-47",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/235-Zumar32-47.mp3"
                 },
                 {
                     "id": 236,
-                    "title": "236 الزمر 47 67",
+                    "title": "236 الزمر 47-67",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/236-Zumar47-67.mp3"
                 },
                 {
                     "id": 237,
-                    "title": "237 الزمر 68 Qaafir7",
+                    "title": "237 الزمر 68 غافر 1-7",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/237-Zumar68-Qaafir7.mp3"
                 },
                 {
                     "id": 238,
-                    "title": "238 غافر 8 25",
+                    "title": "238 غافر 8-25",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/238-Qaafir8-25.mp3"
                 },
                 {
                     "id": 239,
-                    "title": "239 غافر 26 40",
+                    "title": "239 غافر 26-40",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/239-Qaafir26-40.mp3"
                 },
                 {
                     "id": 240,
-                    "title": "240 غافر 41 58",
+                    "title": "240 غافر 41-58",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/240-Qaafir41-58.mp3"
                 },
                 {
                     "id": 241,
-                    "title": "241 غافر 59 77",
+                    "title": "241 غافر 59-77",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/241-Qaafir59-77.mp3"
                 },
                 {
                     "id": 242,
-                    "title": "242 غافر 78 Fusilat",
+                    "title": "242 غافر 78 فصلت",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/242-Qaafir78-Fusilat.mp3"
+                },
+                {
+                    "id": 243,
+                    "title": "243 فصلت 12-29",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/243-Fusilat12-29.mp3"
+                },
+                {
+                    "id": 244,
+                    "title": "244 فصلت 30-46",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/244-Fusilat30-46.mp3"
                 }
             ]
         },
@@ -1363,54 +1373,59 @@
             "juz_name": "الجزء الخامس والعشرون",
             "lessons": [
                 {
-                    "id": 243,
-                    "title": "243 فصلت 12 29",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/243-Fusilat12-29.mp3"
-                },
-                {
-                    "id": 244,
-                    "title": "244 فصلت 30 46",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/244-Fusilat30-46.mp3"
-                },
-                {
                     "id": 245,
-                    "title": "245 فصلت 47 Shura10",
+                    "title": "245 فصلت 47-60 شورى 10",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/245-Fusilat47-Shura10.mp3"
                 },
                 {
                     "id": 246,
-                    "title": "246 الشورى 11 22",
+                    "title": "246 الشورى 11-22",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/246-Shura11-22.mp3"
                 },
                 {
                     "id": 247,
-                    "title": "247 الشورى 23 44",
+                    "title": "247 الشورى 23-44",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/247-Shura23-44.mp3"
                 },
                 {
                     "id": 248,
-                    "title": "248 الشورى 45 Zukhruf10",
+                    "title": "248 الشورى 45 الزخرف 10",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/248-Shura45-Zukhruf10.mp3"
                 },
                 {
                     "id": 249,
-                    "title": "249 الزخرف 11 33",
+                    "title": "249 الزخرف 11-33",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/249-Zukhruf11-33.mp3"
                 },
                 {
                     "id": 250,
-                    "title": "250 الزخرف 34 60",
+                    "title": "250 الزخرف 34-60",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/250-Zukhruf34-60.mp3"
                 },
                 {
                     "id": 251,
-                    "title": "251 الزخرف 61 89",
+                    "title": "251 الزخرف 61-89",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/251-Zukhruf61-89.mp3"
                 },
                 {
                     "id": 252,
-                    "title": "252 الدخان 1 39",
+                    "title": "252 الدخان 1-39",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/252-Dukhan1-39.mp3"
+                },
+                {
+                    "id": 253,
+                    "title": "253 الدخان 40 جاثية 13",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/253-Dukhan40-Jathiya13.mp3"
+                },
+                {
+                    "id": 254,
+                    "title": "254 الجاثية 14-32",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/254-Jathiyah14-32.mp3"
+                },
+                {
+                    "id": 255,
+                    "title": "255 الجاثية 33-37",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/255-Jathiyah33-37.mp3"
                 }
             ]
         },
@@ -1419,54 +1434,54 @@
             "juz_name": "الجزء السادس والعشرون",
             "lessons": [
                 {
-                    "id": 253,
-                    "title": "253 الدخان 40 Jathiya13",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/253-Dukhan40-Jathiya13.mp3"
-                },
-                {
-                    "id": 254,
-                    "title": "254 الجاثية 14 32",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/254-Jathiyah14-32.mp3"
-                },
-                {
-                    "id": 255,
-                    "title": "255 الجاثية 33 37",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/255-Jathiyah33-37.mp3"
-                },
-                {
                     "id": 256,
-                    "title": "256 الجاثية 33 Axqaaf14",
+                    "title": "256 الجاثية 33 الأحقاف 14",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/256-Jathiyah33-Axqaaf14.mp3"
                 },
                 {
                     "id": 257,
-                    "title": "257 الأحقاف 15 28",
+                    "title": "257 الأحقاف 15-28",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/257-Axqaaf15-28.mp3"
                 },
                 {
                     "id": 258,
-                    "title": "258 الأحقاف 29 Muxamed11",
+                    "title": "258 الأحقاف 29 مُحَمَّد 11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/258-Axqaaf29-Muxamed11.mp3"
                 },
                 {
                     "id": 259,
-                    "title": "259 محمد 12 29",
+                    "title": "259 محمد 12-29",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/259-Muxamed12-29.mp3"
                 },
                 {
                     "id": 260,
-                    "title": "260 محمد 30 Fatxi9",
+                    "title": "260 محمد 30 فتح 9",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/260-Muxamed30-Fatxi9.mp3"
                 },
                 {
                     "id": 261,
-                    "title": "261 الفتح 10 23",
+                    "title": "261 الفتح 10-23",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/261-Fatxi10-23.mp3"
                 },
                 {
                     "id": 262,
-                    "title": "262 الفتح 24 Xujurat4",
+                    "title": "262 الفتح 24-الحجرات 4",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/262-Fatxi24-Xujurat4.mp3"
+                },
+                {
+                    "id": 263,
+                    "title": "263 الحجرات 5-18",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/263-Xujurat5-18.mp3"
+                },
+                {
+                    "id": 264,
+                    "title": "264 ق 1-35",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/264-Qaaf1-35.mp3"
+                },
+                {
+                    "id": 265,
+                    "title": "265 ق 36-دريات 30",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/265-Qaaf36-Dariyat30.mp3"
                 }
             ]
         },
@@ -1475,54 +1490,54 @@
             "juz_name": "الجزء السابع والعشرون",
             "lessons": [
                 {
-                    "id": 263,
-                    "title": "263 الحجرات 5 18",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/263-Xujurat5-18.mp3"
-                },
-                {
-                    "id": 264,
-                    "title": "264 ق 1 35",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/264-Qaaf1-35.mp3"
-                },
-                {
-                    "id": 265,
-                    "title": "265 ق 36 Dariyat30",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/265-Qaaf36-Dariyat30.mp3"
-                },
-                {
                     "id": 266,
-                    "title": "266 الذاريات 31 Dhuur14",
+                    "title": "266 الذاريات 31-الطور 14",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/266-Dariyat31-Dhuur14.mp3"
                 },
                 {
                     "id": 267,
-                    "title": "267 الطور 15 49",
+                    "title": "267 الطور 15-49",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/267-Dhuur15-49.mp3"
                 },
                 {
                     "id": 268,
-                    "title": "268 النجم 1 44",
+                    "title": "268 النجم 1-44",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/268-Najmi1-44.mp3"
                 },
                 {
                     "id": 269,
-                    "title": "269 النجم 45 Qamar27",
+                    "title": "269 النجم 45-القمر 27",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/269-Najmi45-Qamar27.mp3"
                 },
                 {
                     "id": 270,
-                    "title": "270 القمر 28 55",
+                    "title": "270 القمر 28-55",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/270-Qamar28-55.mp3"
                 },
                 {
                     "id": 271,
-                    "title": "271 القمر 28 Raxman18",
+                    "title": "271 القمر 28 رحمان 18",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/271-Qamar28-Raxman18.mp3"
                 },
                 {
                     "id": 272,
-                    "title": "272 الرحمن 17 67",
+                    "title": "272 الرحمن 17-67",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/272-Raxmaan17-67.mp3"
+                },
+                {
+                    "id": 273,
+                    "title": "273 الواقعة 51-96",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/273-Waqica51-96.mp3"
+                },
+                {
+                    "id": 274,
+                    "title": "274 الحديد 1-18",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/274-Xadiid1-18.mp3"
+                },
+                {
+                    "id": 275,
+                    "title": "275 الحديد 19-29",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/275-057Xadiid19-29.mp3"
                 }
             ]
         },
@@ -1531,54 +1546,54 @@
             "juz_name": "الجزء الثامن والعشرون",
             "lessons": [
                 {
-                    "id": 273,
-                    "title": "273 الواقعة 51 96",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/273-Waqica51-96.mp3"
-                },
-                {
-                    "id": 274,
-                    "title": "274 الحديد 1 18",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/274-Xadiid1-18.mp3"
-                },
-                {
-                    "id": 275,
-                    "title": "275 057 الحديد 19 29",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/275-057Xadiid19-29.mp3"
-                },
-                {
                     "id": 276,
-                    "title": "276 المجادلة 1 11",
+                    "title": "276 المجادلة 1-11",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/276-Mujadala1-11.mp3"
                 },
                 {
                     "id": 277,
-                    "title": "277 المجادلة 12 Xashri3",
+                    "title": "277 المجادلة 12-الحشر 3",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/277-Mujadala12-Xashri3.mp3"
                 },
                 {
                     "id": 278,
-                    "title": "278 الحشر 4 16",
+                    "title": "278 الحشر 4-16",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/278-Xashar4-16.mp3"
                 },
                 {
                     "id": 279,
-                    "title": "279 الحشر 17 Mumtaxinah5",
+                    "title": "279 الحشر 17-الممتحنة 5",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/279-Xashri17-Mumtaxinah5.mp3"
                 },
                 {
                     "id": 280,
-                    "title": "280 الممتحنة 6 Saf5",
+                    "title": "280 الممتحنة 6-الصف 5",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/280-Mumtaxinah6-Saf5.mp3"
                 },
                 {
                     "id": 281,
-                    "title": "281 الصف 6 Jumucah8",
+                    "title": "281 الصف 6 -الجمعة 8",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/281-Saf6-Jumucah8.mp3"
                 },
                 {
                     "id": 282,
-                    "title": "282 الجمعة 9 Munaafiqun",
+                    "title": "282 الجمعة 9 مُنافقون",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/282-Jumucah9-Munaafiqun.mp3"
+                },
+                {
+                    "id": 283,
+                    "title": "283 التغابن 1-18",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/283-Taqabun1-18.mp3"
+                },
+                {
+                    "id": 284,
+                    "title": "284 الطلاق 1-12",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/284-Dhalaaq1-12.mp3"
+                },
+                {
+                    "id": 285,
+                    "title": "285 التحريم 1-12",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/285-Taxriim1-12.mp3"
                 }
             ]
         },
@@ -1587,54 +1602,44 @@
             "juz_name": "الجزء التاسع والعشرون",
             "lessons": [
                 {
-                    "id": 283,
-                    "title": "283 التغابن 1 18",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/283-Taqabun1-18.mp3"
-                },
-                {
-                    "id": 284,
-                    "title": "284 الطلاق 1 12",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/284-Dhalaaq1-12.mp3"
-                },
-                {
-                    "id": 285,
-                    "title": "285 التحريم 1 12",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/285-Taxriim1-12.mp3"
-                },
-                {
                     "id": 286,
-                    "title": "286 الملك 1 26",
+                    "title": "286 الملك 1-26",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/286-Mulki1-26.mp3"
                 },
                 {
                     "id": 287,
-                    "title": "287 الملك 27 Qalam2",
+                    "title": "287 الملك 27-القلم 2",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/287-Mulk27-Qalam2.mp3"
                 },
                 {
                     "id": 288,
-                    "title": "288 القلم 43 haqah34",
+                    "title": "288 القلم 43 الحاقة 34",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/288-Qalam43-haqah34.mp3"
                 },
                 {
                     "id": 289,
-                    "title": "289 الحاقة 35 Macrij39",
+                    "title": "289 الحاقة 35-المعارج 39",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/289-Haqqah35-Macrij39.mp3"
                 },
                 {
                     "id": 290,
-                    "title": "290 المزمل 1 Mutir17",
+                    "title": "290 المزمل 1 - المدثر 17",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/290-Muzamil1-Mutir17.mp3"
                 },
                 {
                     "id": 291,
-                    "title": "291 المدثر 18 Qiyaamah19",
+                    "title": "291 المدثر 18-قياامة 19",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/291-Mudathir18-Qiyaamah19.mp3"
                 },
                 {
                     "id": 292,
-                    "title": "292 القيامة 20 Insan",
+                    "title": "292 القيامة 20-الانسان24",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/292-Qiyaamah20-Insan.mp3"
+                },
+                {
+                    "id": 293,
+                    "title": "293 الإنسان 25 المرسلات",
+                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/293-Insaan25-Mursalat.mp3"
                 }
             ]
         },
@@ -1643,63 +1648,58 @@
             "juz_name": "الجزء الثلاثون",
             "lessons": [
                 {
-                    "id": 293,
-                    "title": "293 الإنسان 25 Mursalat",
-                    "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/293-Insaan25-Mursalat.mp3"
-                },
-                {
                     "id": 294,
-                    "title": "294 النبأ  Nazicat14",
+                    "title": "294 النبأ-النازعات 1-14",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/294-Naba-Nazicat14.mp3"
                 },
                 {
                     "id": 295,
-                    "title": "295 النازعات 15 Cabasa",
+                    "title": "295 النازعات 15-عبس",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/295-Nazicat15-Cabasa.mp3"
                 },
                 {
                     "id": 296,
-                    "title": "296 التكوير  Infidaar",
+                    "title": "296 التكوير-الانفطار",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/296-Takwiir-Infidaar.mp3"
                 },
                 {
                     "id": 297,
-                    "title": "297 البروج  Acla",
+                    "title": "297 البروج-الاعلى",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/297 Buruuj-Acla.mp3"
                 },
                 {
                     "id": 298,
-                    "title": "298 الغاشية  Fajar",
+                    "title": "298 الغاشية-الفجر",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/298-Qaashiyah-Fajar.mp3"
                 },
                 {
                     "id": 299,
-                    "title": "299 البلد  Layl",
+                    "title": "299 البلد-الليلة",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/299-Balad-Layl.mp3"
                 },
                 {
                     "id": 300,
-                    "title": "300 الضحى  Calaق",
+                    "title": "300 الضحى-العلق",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/300-Duxa-Calaق.mp3"
                 },
                 {
                     "id": 301,
-                    "title": "301 القدر  Cadiyat",
+                    "title": "301 القدر-العاديات",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/301-Qadar-Cadiyat.mp3"
                 },
                 {
                     "id": 302,
-                    "title": "302 القارعة  Fil",
+                    "title": "302 القارعة-الفيل",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/302-Qarica-Fil.mp3"
                 },
                 {
                     "id": 303,
-                    "title": "303 قريش  Masad",
+                    "title": "303 قريش-المسد",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/303-Quraysh-Masad.mp3"
                 },
                 {
                     "id": 304,
-                    "title": "304 الإخلاص  Naas",
+                    "title": "304 الإخلاص-الناس",
                     "audio_url": "https://pub-e504e6f2b87344de94dd778e83d19d22.r2.dev/Cabdinasir/304-Ikhlas-Naas.mp3"
                 }
             ]
